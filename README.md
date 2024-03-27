@@ -23,3 +23,10 @@ This repository contains a Laravel API backend for user management, authenticati
 ### gePositions:
 
 - **Endpoint:** `GET /api/v1/positions`
+
+## Frontend part
+
+### usersList:
+
+- **Endpoint:** `GET /users`
+
