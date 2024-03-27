@@ -2,7 +2,7 @@
 
 This repository contains a Laravel API backend for user management, authentication, and data retrieval.
 
-## Endpoints
+## Api Endpoints
 
 ### Get Token:
 
