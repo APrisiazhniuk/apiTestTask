@@ -6,27 +6,27 @@ This repository contains a Laravel API backend for user management, authenticati
 
 ### Get Token:
 
-- **Endpoint:** `GET /api/v1/token`
+- **Endpoint:** `GET https://www.sporttest.store/api/v1/token`
 
 ### Register:
 
-- **Endpoint:** `POST /api/v1/users`
+- **Endpoint:** `POST https://www.sporttest.store/api/v1/users`
 
 ### usersList:
 
-- **Endpoint:** `GET /api/v1/users?page=1&count=5`
+- **Endpoint:** `GET https://www.sporttest.store/api/v1/users?page=1&count=5`
 
 ### getUserById:
 
-- **Endpoint:** `GET /api/v1/users/{id}`
+- **Endpoint:** `GET https://www.sporttest.store/api/v1/users/{id}`
 
 ### gePositions:
 
-- **Endpoint:** `GET /api/v1/positions`
+- **Endpoint:** `GET https://www.sporttest.store/api/v1/positions`
 
 ## Frontend part
 
 ### usersList:
 
-- **Endpoint:** `GET /users`
+- **Endpoint:** `GET https://www.sporttest.store/users`
 
